@@ -1,0 +1,11 @@
+{
+  "name": "notml",
+  "version": "0.0.0-pre.0",
+  "homepage": "https://github.com/notml/notml",
+  "description": "Not a HTML",
+  "keywords": [
+    "html-generator"
+  ],
+  "repository": "github:notml/notml",
+  "license": "Unlicense"
+}
